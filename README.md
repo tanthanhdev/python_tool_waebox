@@ -1,6 +1,6 @@
 # python_tool_waebox
 
-<!-- Only Linux Usage -->
+## Only Linux Usage
 
 I. Setup environment
 
@@ -20,7 +20,7 @@ IV. Run tool
 
 - python3 main.py
 
-<!-- Helps -->
+## Helps
 
 1. Collect installed lib into requirements.txt
 
