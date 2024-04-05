@@ -1,6 +1,6 @@
 # python_tool_waebox
 
-## Only Linux Usage
+## Linux Usage
 
 I. Setup environment
 
