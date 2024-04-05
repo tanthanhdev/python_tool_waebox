@@ -1,5 +1,6 @@
 {
     "db": {
+        "engine_connector": "mysql+mysqlconnector",
         "user": "admin",
         "password": "password" ,
         "host": "localhost",
