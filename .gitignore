@@ -1,0 +1,8 @@
+# environment
+/venv
+.venv
+# config
+.env
+settings.json
+# upload
+/uploads/*
