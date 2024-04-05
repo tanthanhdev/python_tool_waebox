@@ -12,6 +12,8 @@ II. Configuration
 
 - Copy [settings.json.example] into new file [settings.json] and configure it
 
+- Create new folder uploads in the root directory: /uploads
+
 III. Initial database
 
 - python3 services/init_db.py
